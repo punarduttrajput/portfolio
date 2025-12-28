@@ -237,7 +237,7 @@ export default function Home() {
                     <MapPin className="h-5 w-5 text-primary mt-1 flex-shrink-0" />
                     <div>
                       <p className="font-semibold text-foreground mb-1">Location</p>
-                      <p className="text-muted-foreground text-sm">Kanpur, Uttar Pradesh</p>
+                      <p className="text-muted-foreground text-sm">Noida, Uttar Pradesh</p>
                     </div>
                   </div>
                 </CardContent>
