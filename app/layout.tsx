@@ -40,15 +40,14 @@ export const metadata: Metadata = {
     title: "Punar Dutt Rajput | Full Stack .NET Core Developer",
     description: "Full Stack .NET Core Developer with 2+ years of experience specializing in enterprise applications.",
   },
-  generator: "v0.app",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/fav-light.svg",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/fav.svg",
         media: "(prefers-color-scheme: dark)",
       },
       {
@@ -56,7 +55,7 @@ export const metadata: Metadata = {
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/fav.svg",
   },
 }
 

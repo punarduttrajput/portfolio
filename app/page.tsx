@@ -126,7 +126,7 @@ export default function Home() {
               </p>
               <div className="flex flex-wrap gap-4 pt-6">
                 <Button size="lg" className="shadow-lg hover:shadow-xl transition-shadow" asChild>
-                  <a href="/resume.pdf" download>
+                  <a href="public/resume.pdf" download>
                     <Download className="mr-2 h-4 w-4" />
                     Download Resume
                   </a>
@@ -148,7 +148,7 @@ export default function Home() {
                   asChild
                 >
                   <a
-                    href="https://linkedin.com/in/punarrajput"
+                    href="https://linkedin.com/in/punar-dutt-rajput-269636206"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"
@@ -163,7 +163,7 @@ export default function Home() {
                   asChild
                 >
                   <a
-                    href="https://github.com/punarrajput"
+                    href="https://github.com/punarduttrajput"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub"
@@ -452,7 +452,7 @@ export default function Home() {
                 className="hover:bg-accent hover:text-primary transition-colors"
                 asChild
               >
-                <a href="https://linkedin.com/in/punarrajput" target="_blank" rel="noopener noreferrer">
+                <a href="https://linkedin.com/in/punarduttrajput" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-4 w-4" />
                 </a>
               </Button>
@@ -462,7 +462,7 @@ export default function Home() {
                 className="hover:bg-accent hover:text-primary transition-colors"
                 asChild
               >
-                <a href="https://github.com/punarrajput" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/punarduttrajput" target="_blank" rel="noopener noreferrer">
                   <Github className="h-4 w-4" />
                 </a>
               </Button>
